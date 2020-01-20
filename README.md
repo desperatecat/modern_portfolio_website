@@ -1,6 +1,6 @@
 # Responsive Portfolio Website
 
-https://desperatecat.github.io/modern_portfolio_website
+https://lucasxu.co
 
 Tech Stack:
 
